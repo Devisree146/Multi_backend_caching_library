@@ -1,4 +1,4 @@
-module github.com/Devisree146/Multi_Backend_caching_library-in-Go
+module github.com/Devisree146/Multi_backend_caching_library
 
 go 1.22.3
 
